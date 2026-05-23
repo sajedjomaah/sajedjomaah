@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sajed 👋
 
-<!--
-**sajedjomaah/sajedjomaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 CCE Student
+- 🤖 Interested in AI & Machine Learning
+- 💻 Building software and deep learning projects
+- 🌐 Exploring networking and communication systems
+- 📚 Continuously learning and improving my skills
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- Python
+- PyTorch
+- Flask
+- Git & GitHub
+- SQL
+- Networking Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- AI-Based Violence Detection System
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/sajed-jomaah
+- GitHub: https://github.com/sajedjomaah
+
+> “Learn. Build. Improve.”
