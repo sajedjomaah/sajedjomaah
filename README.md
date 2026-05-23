@@ -11,7 +11,6 @@
 - Python
 - PyTorch
 - Flask
-- Git & GitHub
 - SQL
 - Networking Fundamentals
 
